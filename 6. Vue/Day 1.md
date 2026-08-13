@@ -5,6 +5,8 @@ tags:
 aliases:
   - SKALA_VUE
 ---
+# Vue
+
 ## Vue 학습
 
 ### **Vue.js 특징**
@@ -98,14 +100,13 @@ Real DOM의 고질적인 렌더링 문제를 처리하기 위한 방법.
 	- 사이즈 최적화: 어플리케이션 배포 시 전체 파일을 묶고 크기를 줄여야 함
 	- 브라우저 호환: 구 버전 브라우저에서 ES6 이후의 문법, Typescript 등을 사용할 수 있는 변환 과정 필요
 - 개발 편의를 위한 자동화
-	- 변경 시 자동 새로 고침(Live Reload, HMR)
+	- 변경 시 자동 새로 고침(Live Reload, Hot Module Reload)
 	- 코드 압축, 이미지 최적화, CSS 전처리
 	- .vue, .scss, .ts 등 다양한 확장자 파일 처리
-
-- Vite, npm
+- Vue관련으로는 Vite, npm등이 있음
 ## 프로젝트 구조
 
-**Project Scaffolding**: 개발에 필요한 기본 디렉토리 구조, 빌드/스타일 설정, 공통 모듈등을 자동으로 생성하여 초기 개발 환경(뼈대)을 구성하는 작업
+==**Project Scaffolding**==: 개발에 필요한 기본 디렉토리 구조, 빌드/스타일 설정, 공통 모듈등을 자동으로 생성하여 초기 개발 환경(뼈대)을 구성하는 작업
 ### package.json
 ```json
 {
@@ -195,29 +196,17 @@ Real DOM의 고질적인 렌더링 문제를 처리하기 위한 방법.
 ### index.html
 ```html
 <!doctype html>
-
 <html lang="">
-
-<head>
-
-<meta charset="UTF-8" />
-
-<link rel="icon" href="/favicon.ico" />
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-<title>SKALA-VUE : 모던 웹 애플리케이션 개발 실습실</title>
-
-</head>
-
-<body>
-
-<div id="app"></div>
-
-<script type="module" src="/src/main.js"></script>
-
-</body>
-
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>SKALA-VUE : 모던 웹 애플리케이션 개발 실습실</title>
+	</head>
+	<body>
+		<div id="app"></div>
+		<script type="module" src="/src/main.js"></script>
+	</body>
 </html>
 ```
 
@@ -256,30 +245,19 @@ import HelloWorld from './components/HelloWorld.vue'
   
 
 <template>
-
-<header>
-
-<img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-<div class="wrapper">
-
-<HelloWorld msg="You did it!" />
-
-<nav>
-
-<RouterLink to="/">Home</RouterLink>
-<RouterLink to="/about">About</RouterLink>
-
-</nav>
-
-</div>
-
-</header>
-
-  
-
-<RouterView />
-
+	<header>
+		<img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+		
+		<div class="wrapper">
+			<HelloWorld msg="You did it!" />
+			
+			<nav>
+				<RouterLink to="/">Home</RouterLink>
+				<RouterLink to="/about">About</RouterLink>
+			</nav>
+		</div>
+	</header>
+	<RouterView />
 </template>
 
   
@@ -480,3 +458,5 @@ Vue 컴포넌트의 Template 영역 작성하는 방법
 | v-cloak     | 템플릿이 렌더링 되기 전까지 요소를 숨김                            | 자주 사용 x                     |
 | v-once      | 요소와 하위 콘텐츠를 한 번만 렌더링하고, 이후 변경하지 않음                | 자주 사용 x                     |
 | v-pre       | 템플릿 구문을 무시하고 원본 HTML을 그대로 렌더링                     | 자주 사용 x                     |
+
+[[Day 2]] 에 이어서 계속...
