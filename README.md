@@ -13,7 +13,7 @@
 
 교육생 포털 바로가기 설정에서 사용자 정보와 Zoom 링크를 등록하면 Chrome 팝업을 통해 필요한 기능을 빠르게 이용할 수 있습니다.
 
-🔗 Chrome 웹 스토어 [https://chromewebstore.google.com/detail/red-dolphin-for-skala/efdcabckffcdhplpmdpdphbfkdkalall?authuser=0&hl=ko] 
+🔗 Chrome 웹 스토어 [링크](https://chromewebstore.google.com/detail/red-dolphin-for-skala/efdcabckffcdhplpmdpdphbfkdkalall?authuser=0&hl=ko)
 
 아직 개선 중인 프로젝트이므로 사용하면서 발견한 오류나 추가되면 좋을 기능이 있다면 편하게 알려주세요. 피드백은 언제나 환영합니다! 
 

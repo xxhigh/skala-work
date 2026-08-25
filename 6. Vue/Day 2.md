@@ -5,7 +5,7 @@ tags:
 aliases:
   - SKALA_VUE
 ---
-[[Day 1]] 이어서 작성.
+[[6. Vue/Day 1]] 이어서 작성.
 
 ## v-on
 - DOM 요소에 이벤트 리스너를 연결하여 이벤트를 감지하고 처리
