@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3642fb45a34780b",
+        "id": "25bf40de64d88ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e358f2ee6cda0e",
+            "id": "c2ba2d1dc4bc755e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day 1 - 머신러닝"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8aa22c7903fa8ade",
@@ -206,8 +211,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4e358f2ee6cda0e",
+  "active": "c2ba2d1dc4bc755e",
   "lastOpenFiles": [
+    "11. 머신러닝 및 딥러닝 이해/002_dl.png",
+    "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
+    "11. 머신러닝 및 딥러닝 이해/000_rule.png",
+    "11. 머신러닝 및 딥러닝 이해/001_ml.png",
+    "11. 머신러닝 및 딥러닝 이해/008_WWCS.png",
+    "11. 머신러닝 및 딥러닝 이해/ML_Hyperparameter_Reference.xlsx",
+    "4. 데이터 분석 개요 및 기초통계/day1.md",
+    "4. 데이터 분석 개요 및 기초통계/day3.md",
+    "4. 데이터 분석 개요 및 기초통계/day2.md",
+    "11. 머신러닝 및 딥러닝 이해/007_RandomForest.png",
+    "11. 머신러닝 및 딥러닝 이해/006_지니지수.png",
+    "11. 머신러닝 및 딥러닝 이해/005_지도학습_알고리즘.png",
+    "11. 머신러닝 및 딥러닝 이해/004_생성형vs예측형.png",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_5)_Timeseries.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_4)_Anomaly Detection.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_3)_Clustering.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_2)_Regression.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_1)_Classification.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습",
+    "11. 머신러닝 및 딥러닝 이해",
     "10. sLLM구현 및 Fine Tunning/Day 1 - sLLM.md",
     "10. sLLM구현 및 Fine Tunning",
     "8. Prompt N Context/[4반][U110][김근홍]_Prompt설계와ContextEngineering_개인과제.pdf",
@@ -221,37 +246,17 @@
     "취업/취업캠프.md",
     "README.md",
     "8. Prompt N Context/Day1.md",
-    "9. LLM과 Transformer 아키텍처/word2vec_model.bin",
-    "9. LLM과 Transformer 아키텍처/workbook.ipynb",
     "8. Prompt N Context/개인과제.md",
-    "9. LLM과 Transformer 아키텍처",
     "8. Prompt N Context/블로그 글 - 컨텍스트.md",
     "8. Prompt N Context/블로그 글 - 프롬프트.md",
     "8. Prompt N Context/블로그 글 - AI.md",
-    "8. Prompt N Context/4반 U110 김근홍_Prompt설계와ContextEngineering_개인과제.pdf",
-    "8. Prompt N Context/4반_U110_김근홍_Prompt설계와ContextEngineering_개인과제.pdf",
-    "8. Prompt N Context/개인과제.pdf",
-    "8. Prompt N Context/6.png",
-    "8. Prompt N Context/5.png",
-    "8. Prompt N Context/4.png",
-    "8. Prompt N Context/3.png",
-    "8. Prompt N Context/2.png",
-    "8. Prompt N Context/Pasted image 20260824174237.png",
-    "8. Prompt N Context/Pasted image 20260824173821.png",
-    "8. Prompt N Context/Pasted image 20260824173337.png",
     "6. Vue/Day 2.md",
     "특강/반도체 특강.md",
-    "8. Prompt N Context",
     "7. 웹 미니/Day2.md",
-    "특강",
     "7. 웹 미니/Day1.md",
     "6. Vue/Day 3.md",
     "6. Vue/Day 4.md",
     "6. Vue/Day 1.md",
-    "6.Vue/Day 1.md",
-    "4. 데이터 분석 개요 및 기초통계/day3.md",
-    "4. 데이터 분석 개요 및 기초통계/day2.md",
-    "4. 데이터 분석 개요 및 기초통계/day1.md",
-    "6.Vue/Day 2.md"
+    "6.Vue/Day 1.md"
   ]
 }
