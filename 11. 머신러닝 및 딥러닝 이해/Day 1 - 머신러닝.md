@@ -1,3 +1,11 @@
+---
+aliases:
+  - ML
+tags:
+  - Skala
+  - ML
+---
+
 ## 머신러닝이란?
 
 데이터로부터 스스로 **학습**하는 알고리즘
@@ -72,6 +80,21 @@ Y가 존재하지 않음: Unsupervised Learning(비지도 학습)
 - Dimension Reduction(차원 축소)
 
 ### Classification vs Regression
+
+| 구분      | Classification                          | Regression                      |
+| ------- | --------------------------------------- | ------------------------------- |
+| 목적      | 어떤 범주에 속하는지 예측                          | 연속적인 숫자 값을 예측                   |
+| 출력      | 클래스 / 범주                                | 실수 값                            |
+| 예시      | 고양이/개, 스팸/정상                            | 집값, 온도, 매출 등                    |
+| 대표 알고리즘 | Logistic Regression, SVM, Decision Tree | Linear Regression, Ridge, Lasso |
+
+예시) 주식
+
+만약 삼성전자의 주식 데이터를 넣고 결과를 본다고 가정.
+
+매수or매도 = Classification
+3일 뒤 예상 주가 = Regression
+
 
 ## 지도학습
 
@@ -212,3 +235,6 @@ Random Forest vs Gradient Boost
 
 - K의 개수를 늘리면 서서히 그래프가 작아짐.
 - 감소하면서 완만해지는 지점이 적절한 K의 개수(Elbow Point)
+
+
+[[Day 2 - 머신러닝]] 이어서 계속.
