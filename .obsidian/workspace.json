@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25bf40de64d88ee8",
+        "id": "2694e237709741b5",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2e06ea9e863109",
+            "id": "4ea2fcbf61c29a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. 머신러닝 및 딥러닝 이해/Day 3 - 딥러닝.md",
+                "file": "12. 모델개발 및 최적화/Day 1 - Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - 딥러닝"
+              "title": "Day 1 - Model"
             }
           }
         ]
@@ -211,8 +211,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c2e06ea9e863109",
+  "active": "4ea2fcbf61c29a3a",
   "lastOpenFiles": [
+    "12. 모델개발 및 최적화/012_ModelProcess.png",
+    "12. 모델개발 및 최적화/Day 1 - Model.md",
+    "12. 모델개발 및 최적화/011_Regression.png",
+    "12. 모델개발 및 최적화/010_table.png",
+    "12. 모델개발 및 최적화/009_auc_lift.png",
+    "12. 모델개발 및 최적화/008_ConfusionMatrixExam.png",
+    "12. 모델개발 및 최적화/007_ConfusionMatrix.png",
+    "12. 모델개발 및 최적화/006_over_under.png",
+    "12. 모델개발 및 최적화/005_hyper-parameter.png",
+    "12. 모델개발 및 최적화/004_ModelOptimizer.png",
+    "12. 모델개발 및 최적화/003_ModelLifecycle.png",
+    "README.md",
+    "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
+    "11. 머신러닝 및 딥러닝 이해/Day 2 - 머신러닝.md",
+    "11. 머신러닝 및 딥러닝 이해/Day 3 - 딥러닝.md",
+    "특강/신정화 매니저님 특강.md",
     "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_김근홍.zip",
     "11. 머신러닝 및 딥러닝 이해/Exam/Archive.zip",
     "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_김근홍.xlsx",
@@ -222,22 +238,7 @@
     "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_OOO.xlsx",
     "11. 머신러닝 및 딥러닝 이해/Exam",
     "11. 머신러닝 및 딥러닝 이해/untitled folder",
-    "11. 머신러닝 및 딥러닝 이해/Day 2 - 머신러닝.md",
-    "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
-    "11. 머신러닝 및 딥러닝 이해/Day 3 - 딥러닝.md",
-    "11. 머신러닝 및 딥러닝 이해/028_transformer_trend.png",
-    "11. 머신러닝 및 딥러닝 이해/027_transformer.png",
-    "11. 머신러닝 및 딥러닝 이해/026_seq2attention.png",
-    "11. 머신러닝 및 딥러닝 이해/025_lstm.png",
-    "11. 머신러닝 및 딥러닝 이해/023_pooling.png",
-    "11. 머신러닝 및 딥러닝 이해/024_cnn_arch.webp",
-    "11. 머신러닝 및 딥러닝 이해/022_cnn.png",
     "취업/index.html",
-    "취업/app.js",
-    "11. 머신러닝 및 딥러닝 이해/021_LRvsDL.png",
-    "11. 머신러닝 및 딥러닝 이해/020_DL_Process.png",
-    "11. 머신러닝 및 딥러닝 이해/000_rule.png",
-    "README.md",
     "6. Vue/Day 1.md",
     "6. Vue/Day 4.md",
     "6. Vue/Day 3.md",
@@ -245,7 +246,6 @@
     "특강/자소서.md",
     "취업/2026 넥토리얼.md",
     "취업/취업캠프.md",
-    "특강/신정화 매니저님 특강.md",
     "4. 데이터 분석 개요 및 기초통계/day1.md",
     "4. 데이터 분석 개요 및 기초통계/day3.md",
     "4. 데이터 분석 개요 및 기초통계/day2.md",
@@ -257,7 +257,6 @@
     "8. Prompt N Context/Day1.md",
     "8. Prompt N Context/개인과제.md",
     "8. Prompt N Context/블로그 글 - 컨텍스트.md",
-    "8. Prompt N Context/블로그 글 - 프롬프트.md",
-    "8. Prompt N Context/블로그 글 - AI.md"
+    "8. Prompt N Context/블로그 글 - 프롬프트.md"
   ]
 }
