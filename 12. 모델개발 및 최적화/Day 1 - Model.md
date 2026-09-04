@@ -1,3 +1,11 @@
+---
+aliases:
+  - ModelOpt
+tags:
+  - Skala
+  - Optimize
+---
+
 
 ## 분석 프로세스 이해
 
