@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25bf40de64d88ee8",
+        "id": "1a2372be6045d53d",
         "type": "tabs",
         "children": [
           {
-            "id": "c2ba2d1dc4bc755e",
+            "id": "f0a9645b9a58af8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
+                "file": "12. 모델개발 및 최적화/Wrap-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 - 머신러닝"
+              "title": "Wrap-up"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8aa22c7903fa8ade",
@@ -211,52 +210,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2ba2d1dc4bc755e",
+  "active": "f0a9645b9a58af8d",
   "lastOpenFiles": [
-    "11. 머신러닝 및 딥러닝 이해/002_dl.png",
+    "12. 모델개발 및 최적화/Day 1 - Model.md",
+    "12. 모델개발 및 최적화/Wrap-up.md",
+    "12. 모델개발 및 최적화/Exam/종합실습_결과물_모델개발및최적화_OOO.xlsx",
+    "12. 모델개발 및 최적화/Exam/종합실습_가이드_모델개발및최적화.ipynb",
+    "12. 모델개발 및 최적화/Exam",
+    "취업/2026 넥토리얼.md",
+    "12. 모델개발 및 최적화/012_ModelProcess.png",
+    "12. 모델개발 및 최적화/011_Regression.png",
+    "12. 모델개발 및 최적화/010_table.png",
+    "12. 모델개발 및 최적화/009_auc_lift.png",
+    "12. 모델개발 및 최적화/008_ConfusionMatrixExam.png",
+    "12. 모델개발 및 최적화/007_ConfusionMatrix.png",
+    "12. 모델개발 및 최적화/006_over_under.png",
+    "12. 모델개발 및 최적화/005_hyper-parameter.png",
+    "12. 모델개발 및 최적화/004_ModelOptimizer.png",
+    "12. 모델개발 및 최적화/003_ModelLifecycle.png",
+    "README.md",
     "11. 머신러닝 및 딥러닝 이해/Day 1 - 머신러닝.md",
-    "11. 머신러닝 및 딥러닝 이해/000_rule.png",
-    "11. 머신러닝 및 딥러닝 이해/001_ml.png",
-    "11. 머신러닝 및 딥러닝 이해/008_WWCS.png",
-    "11. 머신러닝 및 딥러닝 이해/ML_Hyperparameter_Reference.xlsx",
+    "11. 머신러닝 및 딥러닝 이해/Day 2 - 머신러닝.md",
+    "11. 머신러닝 및 딥러닝 이해/Day 3 - 딥러닝.md",
+    "특강/신정화 매니저님 특강.md",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_김근홍.zip",
+    "11. 머신러닝 및 딥러닝 이해/Exam/Archive.zip",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_김근홍.xlsx",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_가이드_ML_DL_김근홍.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_OOO.textClipping",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_가이드_ML_DL.ipynb",
+    "11. 머신러닝 및 딥러닝 이해/Exam/종합실습_결과물_ML_DL_OOO.xlsx",
+    "6. Vue/Day 1.md",
+    "6. Vue/Day 4.md",
+    "6. Vue/Day 3.md",
+    "6. Vue/Day 2.md",
+    "특강/자소서.md",
+    "취업/취업캠프.md",
     "4. 데이터 분석 개요 및 기초통계/day1.md",
     "4. 데이터 분석 개요 및 기초통계/day3.md",
     "4. 데이터 분석 개요 및 기초통계/day2.md",
-    "11. 머신러닝 및 딥러닝 이해/007_RandomForest.png",
-    "11. 머신러닝 및 딥러닝 이해/006_지니지수.png",
-    "11. 머신러닝 및 딥러닝 이해/005_지도학습_알고리즘.png",
-    "11. 머신러닝 및 딥러닝 이해/004_생성형vs예측형.png",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_5)_Timeseries.ipynb",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_4)_Anomaly Detection.ipynb",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_3)_Clustering.ipynb",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_2)_Regression.ipynb",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습/ML_1)_Classification.ipynb",
-    "11. 머신러닝 및 딥러닝 이해/ML Code_개념실습",
-    "11. 머신러닝 및 딥러닝 이해",
     "10. sLLM구현 및 Fine Tunning/Day 1 - sLLM.md",
-    "10. sLLM구현 및 Fine Tunning",
-    "8. Prompt N Context/[4반][U110][김근홍]_Prompt설계와ContextEngineering_개인과제.pdf",
-    "8. Prompt N Context/1.png",
     "9. LLM과 Transformer 아키텍처/Day 2 - LLM.md",
     "9. LLM과 Transformer 아키텍처/종합실습.md",
     "9. LLM과 Transformer 아키텍처/Day 1 - LLM.md",
     "9. LLM과 Transformer 아키텍처/Attention.md",
-    "취업/2026 넥토리얼.md",
-    "취업/넥토리얼_JD.png",
-    "취업/취업캠프.md",
-    "README.md",
     "8. Prompt N Context/Day1.md",
     "8. Prompt N Context/개인과제.md",
     "8. Prompt N Context/블로그 글 - 컨텍스트.md",
-    "8. Prompt N Context/블로그 글 - 프롬프트.md",
-    "8. Prompt N Context/블로그 글 - AI.md",
-    "6. Vue/Day 2.md",
-    "특강/반도체 특강.md",
-    "7. 웹 미니/Day2.md",
-    "7. 웹 미니/Day1.md",
-    "6. Vue/Day 3.md",
-    "6. Vue/Day 4.md",
-    "6. Vue/Day 1.md",
-    "6.Vue/Day 1.md"
+    "8. Prompt N Context/블로그 글 - 프롬프트.md"
   ]
 }
